@@ -1,0 +1,9 @@
+auto car
+talo house
+kissa cat
+koira dog
+koulu school
+puhelin phone
+opettaja teacher
+tietokone computer
+musiikki music
