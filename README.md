@@ -13,9 +13,9 @@ This project is a fullstack dictionary application that includes a REST API back
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/FullStack1.git`
+**Clone the repository:** `git clone https://github.com/yourusername/DictionaryApp.git`
 
-**Navigate to the project directory:** `cd FullStack1`
+**Navigate to the project directory:** `cd DictionaryApp`
 
 ### Backend Setup
 
