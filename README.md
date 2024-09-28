@@ -13,7 +13,7 @@ This project is a fullstack dictionary application that includes a REST API back
 
 ## Installation
 
-**Clone the repository:** `git clone https://github.com/yourusername/DictionaryApp.git`
+**Clone the repository:** `git clone https://github.com/lauri-sa/DictionaryApp.git`
 
 **Navigate to the project directory:** `cd DictionaryApp`
 
